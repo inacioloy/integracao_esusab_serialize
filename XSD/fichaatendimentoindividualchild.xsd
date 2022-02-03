@@ -20,7 +20,7 @@
       <xs:element maxOccurs="1" minOccurs="0" name="cpfCidadao" type="xs:string"/>
       <xs:element maxOccurs="1" minOccurs="0" name="dataNascimento" type="xs:long"/>
       <xs:element maxOccurs="1" minOccurs="0" name="localDeAtendimento" type="xs:long"/>
-      <xs:element maxOccurs="1" minOccurs="0" name="sexo" type="xs:long"/>
+      <xs:element maxOccurs="1" name="sexo" type="xs:long"/>
       <xs:element maxOccurs="1" minOccurs="0" name="turno" type="xs:long"/>
       <xs:element maxOccurs="1" minOccurs="0" name="tipoAtendimento" type="xs:long"/>
       <xs:element maxOccurs="1" minOccurs="0" name="pesoAcompanhamentoNutricional" type="xs:double"/>
