@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<medicamentos>
+    <codigoCatmat>BR0387985</codigoCatmat>
+    <viaAdministracao>11</viaAdministracao>
+    <dose>1 aplicação</dose>
+    <doseUnica>false</doseUnica>
+    <usoContinuo>false</usoContinuo>
+    <doseFrequenciaTipo>1</doseFrequenciaTipo>
+    <doseFrequencia>manhã</doseFrequencia>
+    <doseFrequenciaQuantidade>2</doseFrequenciaQuantidade>
+    <doseFrequenciaUnidadeMedida>3</doseFrequenciaUnidadeMedida>
+    <dtInicioTratamento>1586095200000</dtInicioTratamento>
+    <duracaoTratamento>12</duracaoTratamento>
+    <duracaoTratamentoMedida>3</duracaoTratamentoMedida>
+    <quantidadeReceitada>12</quantidadeReceitada>
+</medicamentos>
