@@ -1,3 +1,5 @@
 from fichaprocedimento import *
-ficha = ExemploFichaProcedimento()
+from fichavacina import *
+#ficha = ExemploFichaProcedimento()
+ficha = ExemploFichaVacina()
 ficha.gerar_arquivo()
